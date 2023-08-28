@@ -98,3 +98,4 @@ function configurePosts(Posts: Posts): void {
 }
 
 module.exports = configurePosts;
+

@@ -20,4 +20,5 @@ export type PostObject = {
   replies: number;
   editedISO: string;
   edited: number;
+
 };
